@@ -1,0 +1,3 @@
+{'alg__max_features': 'sqrt',
+ 'alg__min_samples_leaf': 1,
+ 'alg__n_estimators': 300}
